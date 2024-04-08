@@ -1,0 +1,9 @@
+O
+B-DebtInstrumentFaceAmount
+I-DebtInstrumentFaceAmount
+B-DebtInstrumentBasisSpreadOnVariableRate1
+I-DebtInstrumentBasisSpreadOnVariableRate1
+B-LesseeOperatingLeaseTermOfContract
+I-LesseeOperatingLeaseTermOfContract
+B-ContractWithCustomerLiability
+I-ContractWithCustomerLiability
